@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>resources/Styles/calendar_style.qss</file>
+        <file>resources/Icon/16x16_Add.png</file>
+        <file>resources/Icon/16x16_Clear.png</file>
+        <file>resources/Icon/16x16_Del.png</file>
+        <file>resources/Icon/16x16_Delete.png</file>
+        <file>resources/Icon/16x16_FileOpen.png</file>
+        <file>resources/Icon/16x16_SortAscending.png</file>
+        <file>resources/Icon/16x16_SortDescending.png</file>
+        <file>resources/Icon/16x16_Save.png</file>
+        <file>resources/Icon/16x16_ArrowUpPrev.png</file>
+        <file>resources/Icon/16x16_Sort.png</file>
+        <file>resources/Icon/cancel.png</file>
+        <file>resources/Icon/follow-up.png</file>
+        <file>resources/Icon/navigation.png</file>
+        <file>resources/Icon/plus.png</file>
+        <file>resources/Icon/sort-ascending.png</file>
+        <file>resources/Icon/sort-descending.png</file>
+        <file>resources/Icon/text-alignment.png</file>
+        <file>resources/Icon/sun.png</file>
+        <file>resources/Icon/sunBlack.png</file>
+        <file>resources/Icon/chat.png</file>
+        <file>resources/Icon/save.png</file>
+        <file>resources/Icon/gift-card.png</file>
+        <file>resources/Icon/image.png</file>
+    </qresource>
+</RCC>

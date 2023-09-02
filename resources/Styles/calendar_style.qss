@@ -1,0 +1,50 @@
+QCalendarWidget {
+    background-color: #353535;
+    color: white;
+    border: none;
+}
+
+QCalendarWidget QAbstractItemView {
+    selection-background-color: #353535;
+    selection-color: white;
+    alternate-background-color: #292929;
+    border: none;
+}
+
+QCalendarWidget QWidget#qt_calendar_navigationbar {
+    background-color: #292929;
+    color: white;
+    border: none;
+}
+
+QCalendarWidget QToolButton {
+    background-color: #292929;
+    color: white;
+    border: none;
+    padding: 5px;
+    min-width: 30px;
+    min-height: 30px;
+}
+
+QCalendarWidget QToolButton:hover {
+    background-color: #212121;
+}
+
+QCalendarWidget QMenu {
+    background-color: #292929;
+    border: 1px solid #007bff;
+}
+
+QCalendarWidget QMenu::item {
+    padding: 5px;
+}
+
+QCalendarWidget QMenu::item:selected {
+    background-color: #007bff;
+    color: white;
+}
+
+QCalendarWidget QTableView:!active {
+    selection-background-color: #191919;
+    selection-color: #FFA86E;
+}
